@@ -19,9 +19,6 @@ const muiTheme = getMuiTheme({
   palette: {
     primary1Color: lightBlue800,
   },
-  appBar: {
-    height: 70,
-  },
 });
 
 class RandomQuote extends Component {
@@ -37,7 +34,7 @@ class RandomQuote extends Component {
   }
 
   getNewQuote = () => {
-    axios.get(`http://quotesondesign.com/wp-json/posts?filter[orderby]=rand&filter[posts_per_page]=40`)
+    axios.get(`https://quotesondesign.com/wp-json/posts?filter[orderby]=rand&filter[posts_per_page]=40`)
         .then(response => {
             this.setState({
               quote: response.data[this.state.randNum].content,
@@ -89,7 +86,7 @@ class RandomQuote extends Component {
         </div>
 
         <div className="Footer">
-          ©️ Amandeep Singh
+          © Amandeep Singh
         </div>
       </div>
     );
