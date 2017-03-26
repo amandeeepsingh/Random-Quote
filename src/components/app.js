@@ -89,7 +89,7 @@ class RandomQuote extends Component {
         </div>
 
         <div className="Footer">
-          ©️ Amandeep Singh ・ Internet Programming ・ CCNY
+          ©️ Amandeep Singh
         </div>
       </div>
     );
