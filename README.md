@@ -3,7 +3,7 @@ A Random Quote App built using React JS
 
 > Demo: https://amandeeepsingh.github.io/random-quote/
 
-# Installing and runing:
+# Installing and running:
 
 * ` git clone https://github.com/amandeeepsingh/Random-Quote.git `
 * ` npm install `
