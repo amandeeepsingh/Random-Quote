@@ -1,0 +1,25 @@
+{
+  "name": "random-quote",
+  "version": "1.0.0",
+  "description": "A Random Quote App using React JS",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/amandeeepsingh/Random-Quote.git"
+  },
+  "keywords": [
+    "ReactJS",
+    "React",
+    "ES6",
+    "ES2015"
+  ],
+  "author": "Amandeep Singh",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/amandeeepsingh/Random-Quote/issues"
+  },
+  "homepage": "https://github.com/amandeeepsingh/Random-Quote#readme"
+}
