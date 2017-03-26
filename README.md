@@ -9,5 +9,6 @@ A Random Quote App built using React JS
 * ` npm install `
 * ` npm run-script build `
 * ` npm start `
+* ` Go To: http://localhost:3000/ `
   
 ![App Sreenshot](https://raw.githubusercontent.com/amandeeepsingh/Random-Quote/master/readme/ScreenShot.png "App Sreenshot")
